@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/onosproject_spring-boot-master/onosproject_spring-boot-master/SpringBoot.iml" filepath="$PROJECT_DIR$/onosproject_spring-boot-master/onosproject_spring-boot-master/SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/实时流量获取.iml" filepath="$PROJECT_DIR$/.idea/实时流量获取.iml" />
+    </modules>
+  </component>
+</project>
